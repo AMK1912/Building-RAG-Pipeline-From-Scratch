@@ -6,3 +6,5 @@ pymupdf>=1.23.22
 sentence-transformers>=2.2.2
 faiss-cpu>=1.7.4
 chromadb>=0.4.22
+langchain-groq
+python-dotenv
